@@ -6,7 +6,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2>여러 사진 업로드폼</h2>
+<h2>여러 사진 업로드폼11</h2>
 <form action="${initParam.rootPath}/imageupload" method="post" enctype="multipart/form-data">
 	업로더 : <input type="text" name="uploader"><br>
 	설명 : <input type="text" name="comment" size="50"><br>
